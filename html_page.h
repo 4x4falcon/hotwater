@@ -1,3 +1,5 @@
+// the html page displayed to show status and turn on off the hotwater system
+
 const String INDEX_HEAD =
 "<!DOCTYPE HTML>"
 "<html>"
